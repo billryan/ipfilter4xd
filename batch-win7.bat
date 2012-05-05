@@ -8,5 +8,5 @@ goto normal
 :exit
 echo file ipfilter.dat or dirs uTorrent does not exist!!!
 :normal
-echo Batch codes wrote by billryan. fork me~ https://github.com/billryan
+echo Batch codes wrote by billryan. fork me... https://github.com/billryan
 pause
