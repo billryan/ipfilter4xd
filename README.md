@@ -23,4 +23,4 @@ English
 
 transmission
 -----
-transmission的强大不必多说，Linux和MAC OS X下的用户还是比较多的，具体的配置可以到https://trac.transmissionbt.com/wiki/ConfigFiles下查看，transmission还支持网络升级blocklist，填入ipfilter.dat 的URL也很OK
+transmission的强大不必多说，Linux和MAC OS X下的用户还是比较多的，具体的配置可以到[https://trac.transmissionbt.com/wiki/ConfigFiles]下查看，transmission还支持网络升级blocklist，填入ipfilter.dat 的URL也很OK
