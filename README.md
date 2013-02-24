@@ -3,7 +3,7 @@
 
 ipfilter4xd is used for P2P software such as transmission, uTorrent &amp; etc. to block the ip(ipv4) which aren&#39;t XiDian.
 ipfilter4xd用于P2P软件(例如transmission, Ktorrent, uTorrent等)设置blocklist以阻止非西电的IPV4地址主机与本机交换文件，避免了在使用P2P软件下载外校的BT资源(如北邮人，六维BT)时浪费宝贵的校内3G流量(ipv4 only, but ipv6 free).
-ipfilter.dat采用的是P2P format. 绝大多数P2P软件应该都能支持这种格式。其他学校的把ipfilter.dat换成自己学校之外的IP段即可   
+ipfilter.dat采用的是P2P format. 绝大多数P2P软件应该都能支持这种格式。其他学校的把ipfilter.dat换成自己学校之外的IP段即可. 如果想完全屏蔽掉所有ipv4的地址，ipfilter.dat里边填`0.0.0.0-255.255.255.255`就行了。ipfilter.dat可以用任一文本编辑器打开.  
 
 使用方法
 ========
